@@ -1,0 +1,10 @@
+.build/
+dist/
+.DS_Store
+.swiftpm/
+artifacts/live*
+# Local workspace notes are not part of the published project.
+AGENTS.md
+PROGRESS.md
+DECISIONS.md
+/tasks/
